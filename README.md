@@ -1,8 +1,8 @@
-# 🏋️‍♂️ Fitness Program Goal Prediction
+# 🏋️‍♂️ Fitness Equipment Prediction
 
 ## 📘 1. Introduction and Problem Statement
 
-The **Fitness Program Goal Prediction** project aims to create a machine learning model capable of predicting an individual’s **Equipment type (“Full Gym” / “At Home”)** suitable for their preferences and fitness level.
+The **Fitness Equipment Prediction** project aims to create a machine learning model capable of predicting an individual’s **Equipment type (“Full Gym” / “At Home”)** suitable for their preferences and fitness level.
 This project applies **supervised learning** techniques to analyze data patterns and automate workout recommendations.
 
 ### 1.1 Problem Statement
